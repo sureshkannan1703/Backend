@@ -1,2 +1,2 @@
-# Backend
-Repository for push my backend dev projects
+#Spring Boot #H2 Database #JWT #Spring Security
+User Authentication service implemented by JWT tokens.
